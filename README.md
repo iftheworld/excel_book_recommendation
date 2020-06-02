@@ -1,11 +1,11 @@
-# 使用Excel进行中文新书复本推荐，功能升级版
+# 使用Excel进行中文新书复本推荐
 # excel_book_recommendation, upgraded
 using vba to make the book collection recommendation process easier
 
 
 # 运行截图
 # running screen shot
-![screenshot](https://raw.githubusercontent.com/iftheworld/excel_book_recommendation/master/vba.png)
+![screenshot](https://github.com/iftheworld/excel_book_recommendation/blob/master/vba.png?raw=true)
 
 ## 参考
 ## reference
