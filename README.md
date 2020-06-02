@@ -1,6 +1,5 @@
 # 使用Excel进行中文新书复本推荐
-# excel_book_recommendation, upgraded
-using vba to make the book collection recommendation process easier
+# using vba to make the book collection recommendation excel process easier
 
 
 # 运行截图
