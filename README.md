@@ -5,7 +5,7 @@ using vba to make the book collection recommendation process easier
 
 # 运行截图
 # running screen shot
-![screenshot](https://github.com/iftheworld/excel_book_recommendation/raw/master/vba.png)
+![screenshot](https://github.com/iftheworld/excel_book_recommendation/blob/master/vba.png)
 
 ## 参考
 ## reference
